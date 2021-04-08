@@ -42,3 +42,7 @@ optional arguments:
 
 
 ## Demo
+![]()
+
+### License
+UnHasher is licensed under [MIT License](https://github.com/s0md3v/Hash-Buster/blob/master/LICENSE).
