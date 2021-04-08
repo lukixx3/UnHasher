@@ -7,7 +7,7 @@
 
 --- 
 
-**FR:** Proposer à but éducatif seulement
+**FR:** Proposer à but éducatif seulement  
 **EN:** Offer for educational purposes only
 
 
