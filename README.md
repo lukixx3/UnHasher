@@ -29,7 +29,7 @@ cd UnHasher
 pip install -r requirements.txt
 ```
 ### Usage
-```
+```bash
 py UnHasher.py -h
 -------------------
 
@@ -44,5 +44,10 @@ optional arguments:
 ## 📷 Demo
 ![]()
 
-### License
+### 📜 License
 UnHasher is licensed under [MIT License](https://github.com/s0md3v/Hash-Buster/blob/master/LICENSE).
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/kjdsvNqJff)
