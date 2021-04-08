@@ -16,12 +16,12 @@
 
 ---   
 
-## Features
+## 💻 Features
 - Automatic hash type identification
 - Supports MD5, SHA1, SHA256, SHA384, SHA512
 - Can extract & crack hashes from a file
 
-## Insallation & Usage
+## 🛠 Insallation & Usage
 ### Installation
 ```bash
 git clone https://github.com/KanekiX2/UnHasher
@@ -41,7 +41,7 @@ optional arguments:
 ```
 
 
-## Demo
+## 📷 Demo
 ![]()
 
 ### License
