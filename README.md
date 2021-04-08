@@ -11,8 +11,8 @@
 **EN:** Offer for educational purposes only
 
 
-**FR:** UnHasher est un outil qui vous permet de DeHasher rapidement les Hash d'une liste de Hash, à des fins éducatives uniquement.
-**EN:** UnHasher is a tool that allows you to quickly dehasher hashes via a hash list, for educational purposes only.
+**FR:** UnHasher est un outil qui vous permet de DeHasher rapidement les Hash d'une liste de Hash, à des fins éducatives uniquement.  
+**EN:** UnHasher is a tool that allows you to quickly dehasher hashes via a hash list, for educational purposes only.  
 
 ---   
 
@@ -39,3 +39,6 @@ optional arguments:
   -h, --help  show this help message and exit
   -c FILE     Hash Combo File
 ```
+
+
+## Demo
