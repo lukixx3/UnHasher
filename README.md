@@ -27,6 +27,7 @@ pip install -r requirements.txt
 ### Usage
 ```
 UnHasher.py -h
+-------------------
 
 usage: UnHasher.py [-h] [-c FILE]
 
