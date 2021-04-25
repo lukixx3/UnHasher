@@ -45,7 +45,7 @@ optional arguments:
 ![](https://cdn.discordapp.com/attachments/780536336360800259/835756381654351882/unknown.png)
 
 ### 📜 License
-UnHasher is licensed under [MIT License](https://github.com/s0md3v/Hash-Buster/blob/master/LICENSE).
+UnHasher is licensed under [MIT License](https://github.com/KanekiX2/UnHasher/blob/master/LICENSE).
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
